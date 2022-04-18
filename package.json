@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/trhodges.playground-fork-l24ytpwn",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve KG0aWBWErrZoIMtCV0pb --open"
+  }
+}
